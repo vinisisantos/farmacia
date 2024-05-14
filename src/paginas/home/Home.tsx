@@ -9,7 +9,7 @@ function Home() {
         <div className="bg-amber-50 flex justify-center">
           <div className='container grid grid-cols-2 text-white'>
             <div className="flex flex-col gap-4 items-center justify-center py-4">
-              <h2 className='text-5xl font-extrabold text-sky-600'>Farmácia Preço </h2>
+              <h2 className='text-5xl font-extrabold text-sky-600'>Farmácia Preço</h2>
               <p className='text-xl text-sky-600'>Os melhores produtos, com os melhores preços!</p>
   
             
